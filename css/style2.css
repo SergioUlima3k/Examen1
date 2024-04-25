@@ -1,0 +1,61 @@
+html,body{
+    margin: 0;
+
+    
+}
+h3{
+    color: white;
+    margin-left: 80%;
+    margin-bottom: 0;
+}
+.nav{
+    background-color: black;
+    padding-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.arrow {
+border: solid black;
+border-width: 0 3px 3px 0;
+display: inline-block;
+padding: 3px;
+transform: rotate(45deg);
+-webkit-transform: rotate(45deg);
+margin-left: 10px;
+}
+.navdos{
+    display: flex;
+    margin-left: 0px;
+    margin-top: 0;
+    background-color: white;
+
+}
+.navdos p{
+    margin-left: 40px;
+   
+
+
+}
+.entrega{
+    text-align: center;
+    background-color: gray;
+    width: 100%;
+}
+
+.mostrar{
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+.galeria{
+    display: flex;
+    size: 10px;
+    margin-left: 10px;
+    background-color: black;
+    margin-left: 0;
+    margin-top: 0;
+}
+.galeria img{
+    margin-left: 5px;
+}
